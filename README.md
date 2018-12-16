@@ -9,15 +9,8 @@ This project implements the user based collaborative filtering method described 
 # installation
 The requirements for running this program on your local machine are as follows-
 1. Python 3.7 need to be installed on your machine.
-2. The list of inbuilt libraries in Python to be installed is -
-  > xlrd
-  > math  
-  > numpy
-  > scipy
-  > timeit
-  > random
-  > sklearn
-  > multiprocessing
+2. The inbuilt libraries in Python to be installed are -
+   xlrd, math, numpy, scipy, timeit, random, sklearn, multiprocessing
   
 # usage
 Download all the required files and dataset need to be present in the same folder where files containing code are present.
