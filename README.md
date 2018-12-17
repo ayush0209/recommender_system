@@ -12,6 +12,7 @@ The requirements for running this program on your local machine are as follows-
 1. Python 3.7 need to be installed on your machine.
 2. The inbuilt libraries in Python to be installed are -
    xlrd, math, numpy, scipy, timeit, random, sklearn, multiprocessing
+3. The dataset used for analysis of recommendation system is MovieLens 1M Dataset available at grouplens. It can be obtained at https://grouplens.org/datasets/movielens/1m or by downloading the file "ratings.xlsx".
   
 # usage
 Download all the required files and dataset need to be present in the same folder where files containing code are present.
